@@ -1,6 +1,5 @@
 env:
   CIRRUS_WORKING_DIR: /tmp/rom
-  DEVICE: spes
 
 task:
   name: "PixelExperience Build for Spes"
