@@ -1,3 +1,5 @@
+# Trigger build: 1
+
 env:
   CIRRUS_WORKING_DIR: /tmp/rom
 
